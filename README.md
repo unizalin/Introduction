@@ -14,11 +14,11 @@
 - 了解 Git / Github 與基本指令運用。
 ---------
 ## 作品集
-- <a href="https://unizalin.github.io/vue3demo/dist/#/" target="_blank">遊戲買賣平台 - Game-Rocker</a>
+- <a href="https://unizalin.github.io/vue3demo/dist/#/" target="_blank">名產購買平台</a>
     - 前台：商品查詢和介紹、購物車功能、下單、結帳資訊、管理員登入 。
     - 後台：產品管理（新增 / 修改 / 刪除）、訂單管理、優惠券管理、模擬流程。
     > 技術：SPA 、Vue CLI 、Vue Router、Vuex、插件運用、SCSS 管理樣式。
-- <a href="https://unizalin.github.io/JS-localstorage-shoppingList/" target="_blank">購物清單 - East-With-You</a>
+- <a href="https://unizalin.github.io/JS-localstorage-shoppingList/" target="_blank">購物清單</a>
     - 純手刻 RWD 版型。
     - JS localstorage 儲存使用資訊。
     - 不套框架
