@@ -17,8 +17,8 @@
 - <a href="https://unizalin.github.io/vue3-wall/dist/#/login" target="_blank">社交平台</a>
     - Layout 共用版型
     - Vue CLI 、Vue Router、Vuex、插件運用
-    > 前端技術： `Vue 3`、`Imgur api`、`Vuex`、`vue-router`、`Vue CLI`、`插件運用`、`SCSS 管理樣式`
-    > 後端技術： `Node.js`、`Mongodb`、`JWT`
+    - > 前端技術： `Vue 3`、`Imgur api`、`Vuex`、`vue-router`、`Vue CLI`、`插件運用`、`SCSS 管理樣式`
+    - > 後端技術： `Node.js`、`Mongodb`、`JWT`
     - 測試
       - 帳號 Tank1@gmail.com
       - 密碼 Tank123456
