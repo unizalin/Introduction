@@ -14,7 +14,7 @@
 - 了解 Git / Github 與基本指令運用。
 ---------
 ## 作品集
-- <a href="https://unizalin.github.io/vue3-wall/dist/#/login" target="_blank">社交平台</a>
+- <a href="https://unizalin.github.io/vue3-wall/#/login" target="_blank">社交平台</a>
     - Layout 共用版型
     - Vue CLI 、Vue Router、Vuex、插件運用
     - > 前端技術： `Vue 3`、`Imgur api`、`Vuex`、`vue-router`、`Vue CLI`、`插件運用`、`SCSS 管理樣式`
