@@ -20,8 +20,8 @@
     - > 前端技術： `Vue 3`、`Imgur api`、`Vuex`、`vue-router`、`Vue CLI`、`插件運用`、`SCSS 管理樣式`
     - > 後端技術： `Node.js`、`Mongodb`、`JWT`
     - 測試
-      - 帳號 Tank1@gmail.com
-      - 密碼 Tank123456
+      - 帳號 Teddy@gmail.com
+      - 密碼 Teddy123456
 - <a href="https://unizalin.github.io/vue3demo/dist/#/" target="_blank">名產購買平台</a>
     - 前台：商品查詢和介紹、購物車功能、下單、結帳資訊、管理員登入 。
     - 後台：產品管理（新增 / 修改 / 刪除）、訂單管理、優惠券管理、模擬流程。
